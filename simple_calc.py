@@ -11,7 +11,7 @@ myfont  = font.Font(size=15)
 
 e = Entry(root,width=25,borderwidth=0)
 e["font"]= myfont
-e["bg"] = "#d1d1d1"
+e["bg"] = "skyblue"
 e.grid(row = 0,columnspan=4,pady=20,padx=20)
 
 
